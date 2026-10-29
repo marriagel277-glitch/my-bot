@@ -1,0 +1,9 @@
+{
+  "name": "all-service-bd-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node standalone_bot.js"
+  },
+  "dependencies": {}
+}
